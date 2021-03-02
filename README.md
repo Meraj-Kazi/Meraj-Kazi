@@ -1,4 +1,4 @@
-## In 🤎 with JavaScript!
+## In ❤️ with JavaScript!
 
 Specialized in MEAN stack for development. <br>
 M = MongoDB <br>
@@ -7,3 +7,5 @@ A = Angular <br>
 N = NodeJS <br>
 
 Pass free time with speedcubing 🧊, books 📚 and coffee ☕
+
+### `❄️ Winter is coming`
