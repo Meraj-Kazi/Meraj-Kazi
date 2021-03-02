@@ -1,7 +1,7 @@
 ## In ❤️ with JavaScript!
 
-Specialized in MEAN stack for development.
-M = MongoDB
-E = Express 
-A = Angular 
-N = NodeJS 
+Specialized in MEAN stack for development. <br>
+M = MongoDB <br>
+E = Express <br>
+A = Angular <br>
+N = NodeJS <br>
