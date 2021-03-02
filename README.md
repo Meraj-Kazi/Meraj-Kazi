@@ -1,4 +1,4 @@
-### In ❤️ with JavaScript!
+## In ❤️ with JavaScript!
 
 Specialized in MEAN stack for development.
 M = MongoDB
