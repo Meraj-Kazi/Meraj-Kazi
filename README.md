@@ -8,4 +8,4 @@ N = NodeJS <br>
 
 Pass free time with speedcubing 🧊, books 📚 and coffee ☕
 
-##### Winter is coming ![Winter is coming](img/stark-2.png)
+![Winter is coming](img/stark-2.png) ##### Winter is coming 
