@@ -18,7 +18,6 @@ Current Goals:
 
 ~
 
-I ~~pass~~ free time with speedcubing 🧊, books 📚 and coffee ☕
+I pass free time with speedcubing 🧊, books 📚 and coffee ☕
 
 #### ![Winter is coming](img/stark-2.png)  Winter is coming 
-
