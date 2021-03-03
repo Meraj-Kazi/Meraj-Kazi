@@ -12,6 +12,8 @@ Current Goals:
 - Learning *Latte Art* 
 - Practice speedcubing more often 
 
+~~
+
 Pass free time with speedcubing 🧊, books 📚 and coffee ☕
 
 #### ![Winter is coming](img/stark-2.png)  Winter is coming 
