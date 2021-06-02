@@ -11,7 +11,7 @@ N = NodeJS <br>
 ~
 
 Current Goals: 
-- Learn more about MongoDB 
+- Learn more about NextJS 
 - Complete reading `Call me by your name` Novel by André Aciman 
 - Learning *Latte Art* 
 - Practice speedcubing more often 
