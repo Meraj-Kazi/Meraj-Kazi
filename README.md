@@ -2,10 +2,10 @@
 
 ~
 
-Specialized in MEAN stack for development. <br>
+Specialized in MERN stack for development. <br>
 M = MongoDB <br>
 E = Express <br>
-A = Angular <br>
+R = React <br>
 N = NodeJS <br>
 
 ~
