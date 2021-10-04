@@ -3,17 +3,17 @@
 ~
 
 Specialized in MERN stack for development. <br>
-M = MongoDB <br>
-E = Express <br>
-R = React <br>
-N = NodeJS <br>
+M = MongoDB 
+E = Express 
+R = React 
+N = NodeJS 
 
 ~
 
 Current Goals: 
-- Learn more about NextJS 
+- Learn advanced NestJS 
 - Complete reading `Call me by your name` Novel by André Aciman 
-- Learning *Latte Art* 
+- Contribute to open source software 
 - Practice speedcubing more often 
 
 ~
