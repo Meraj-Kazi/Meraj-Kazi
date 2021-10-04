@@ -3,10 +3,8 @@
 ~
 
 Specialized in MERN stack for development. <br>
-M = MongoDB 
-E = Express 
-R = React 
-N = NodeJS 
+Currently using React-NextJS for frontend development & Node-NestJS architecture in the backend. 
+*Yeah! You got that right, being fullstack dev is nuts!*
 
 ~
 
