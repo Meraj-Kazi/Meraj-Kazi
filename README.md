@@ -3,7 +3,7 @@
 ~
 
 Specialized in MERN stack for development. <br>
-Currently using React-NextJS for frontend development & Node-NestJS architecture in the backend. 
+Currently using React-NextJS for frontend development & Node-NestJS architecture in the backend. <br>
 *Yeah! You got that right, being fullstack dev is nuts!*
 
 ~
