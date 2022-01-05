@@ -17,7 +17,7 @@ I'm a software engineer, JS enthusiast, working on software team at Felicity Dig
 
 ~
 
-Current Goals: 
+Current Goals: <br> 
 ✨ Learn advanced NestJS <br> 
 ✨ Complete reading `Call me by your name` Novel by André Aciman <br> 
 ✨ Contribute to open source software <br> 
