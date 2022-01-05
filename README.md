@@ -18,12 +18,15 @@ I'm a software engineer, JS enthusiast, working on software team at Felicity Dig
 
 ### Current Goals  
 ✨ Learn advanced NestJS <br> 
-✨ Complete reading `Call me by your name` Novel by André Aciman <br> 
+✨ Complete reading 3 books a month <br> 
 ✨ Contribute to open source software <br> 
 ✨ Practice speedcubing more often <br> 
 
 ~
 
 ✨ I pass free time with speedcubing 🧊, books 📚 and coffee ☕
+
+
+<samp><img src="https://img.icons8.com/color/2x/twitter.png" width="23">find me on twitter [@Meraj_Kazi](https://twitter.com/Meraj_Kazi)
 
 #### ![Winter is coming](img/stark-2.png)  Winter is coming 
