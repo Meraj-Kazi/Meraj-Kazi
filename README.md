@@ -9,14 +9,14 @@ I'm a software engineer, JS enthusiast, working on software team at Felicity Dig
 📚 Currently reading [Paliye Jabar Pore](https://www.goodreads.com/book/show/44178337) <br> 
 🎮 Poekmon Go <br> 
 
-~
+### Working Stack
+
 ✨ Specialized in MERN stack for development. <br>
 ✨ Currently using **React-NextJS** for frontend development & **Node-NestJS** architecture in the backend. *(Yeah! You got that right, being fullstack dev is nuts!)*
 
 
-<br> 
 
-Current Goals: <br> 
+### Current Goals:  
 ✨ Learn advanced NestJS <br> 
 ✨ Complete reading `Call me by your name` Novel by André Aciman <br> 
 ✨ Contribute to open source software <br> 
