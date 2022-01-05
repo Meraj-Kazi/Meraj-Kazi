@@ -4,10 +4,10 @@
 
 I'm a software engineer, JS enthusiast, working on software team at Felicity Digital. We're building revolutionary next-gen fintech softwares. 
 
-💻 Full Stack Developer
-⛺ Based on Dhaka, Bangladesh 
-📚 Currently reading [Paliye Jabar Pore](https://www.goodreads.com/book/show/44178337) 
-🎮 Poekmon Go 
+💻 Full Stack Developer <br> 
+⛺ Based on Dhaka, Bangladesh <br>  
+📚 Currently reading [Paliye Jabar Pore](https://www.goodreads.com/book/show/44178337) <br> 
+🎮 Poekmon Go <br> 
 
 ~
 ✨ Specialized in MERN stack for development. <br>
