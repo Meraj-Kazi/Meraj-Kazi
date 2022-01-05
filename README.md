@@ -1,4 +1,4 @@
-<img align="left" width="240" src="./meraj-coding-7.png"> 
+<img align="left" width="240" src="./img/meraj-coding-7.png"> 
 
 ## ⚡ Hello, I'm Meraj ⚡ 
 
