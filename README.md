@@ -18,10 +18,10 @@ I'm a software engineer, JS enthusiast, working on software team at Felicity Dig
 ~
 
 Current Goals: 
-✨ Learn advanced NestJS 
-✨ Complete reading `Call me by your name` Novel by André Aciman 
-✨ Contribute to open source software 
-✨ Practice speedcubing more often 
+✨ Learn advanced NestJS <br> 
+✨ Complete reading `Call me by your name` Novel by André Aciman <br> 
+✨ Contribute to open source software <br> 
+✨ Practice speedcubing more often <br> 
 
 ~
 
