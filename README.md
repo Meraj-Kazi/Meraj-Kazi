@@ -6,7 +6,7 @@ I'm a software engineer, JS enthusiast, working on software team at Felicity Dig
 
 💻 Full Stack Developer <br> 
 ⛺ Based on Dhaka, Bangladesh <br>
-📚 Currently reading [Paliye Jabar Pore](https://www.goodreads.com/book/show/44178337) <br> 
+📚 Currently reading Ontorgoto Ondhokare <br> 
 🎮 Pokemon Go <br> 
 
 ### Working Stack
