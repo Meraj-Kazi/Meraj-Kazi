@@ -4,10 +4,10 @@
 
 I'm a software engineer, JS enthusiast, working on software team at Felicity Digital. We're building revolutionary next-gen fintech softwares. 
 
-💻 Full Stack Developer <br> 
+💻 Back End Software Engineer <br> 
 ⛺ Based on Dhaka, Bangladesh <br>
-📚 Currently reading Ontorgoto Ondhokare <br> 
-🎮 Pokemon Go <br> 
+📚 Currently reading Eat That Frog <br> 
+🎮 Pokemon Go, Call of Duty <br> 
 
 ### Working Stack
 
