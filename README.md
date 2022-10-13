@@ -6,7 +6,7 @@ I'm a software engineer, JS enthusiast, working on software team at Felicity Dig
 
 💻 Back End Software Engineer <br> 
 ⛺ Based on Dhaka, Bangladesh <br>
-📚 Currently reading Eat That Frog <br> 
+📚 Currently reading Grokking Algorithms <br> 
 🎮 Pokemon Go, Call of Duty <br> 
 
 ### Working Stack
@@ -18,8 +18,8 @@ I'm a software engineer, JS enthusiast, working on software team at Felicity Dig
 
 
 ### Current Goals  
-✨ Learning Python <br> 
-✨ Complete reading Grokking Algorithms <br> 
+✨ Learn Python <br> 
+✨ Complete reading 3 books a month <br> 
 ✨ Contribute to the open source software <br> 
 ✨ Practice speedcubing more often <br> 
 
