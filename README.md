@@ -12,14 +12,15 @@ I'm a software engineer, JS enthusiast, working on software team at Felicity Dig
 ### Working Stack
 
 ✨ Specialized in MERN stack for development. <br>
+✨ In an eternal relationship with JS, but also recently got a paramour called Python XD <br>
 ✨ Currently using **React-NextJS** for frontend development & **Node-NestJS** architecture in the backend. *(Yeah! You got that right, being fullstack dev is nuts!)*
 
 
 
 ### Current Goals  
-✨ Learn advanced NestJS <br> 
-✨ Complete reading 3 books a month <br> 
-✨ Contribute to open source software <br> 
+✨ Learning Python <br> 
+✨ Complete reading Grokking Algorithms <br> 
+✨ Contribute to the open source software <br> 
 ✨ Practice speedcubing more often <br> 
 
 ~
