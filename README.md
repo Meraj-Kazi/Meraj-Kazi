@@ -18,8 +18,8 @@ I'm a software engineer, JS enthusiast, working on software team at Felicity Dig
 
 
 ### Current Goals  
-✨ Learn Python <br> 
-✨ Complete reading 3 books a month <br> 
+✨ Solve NeetCode 150 Problems in Python <br> 
+✨ Complete understand this book __Grokking Algorithms__ <br> 
 ✨ Contribute to the open source software <br> 
 ✨ Practice speedcubing more often <br> 
 
