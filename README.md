@@ -4,22 +4,22 @@
 
 I'm a software engineer, JS enthusiast, working on software team at Felicity Digital. We're building revolutionary next-gen fintech softwares. 
 
-💻 Back End Software Engineer <br> 
+💻 Software Engineer II (Front-end) <br> 
 ⛺ Based on Dhaka, Bangladesh <br>
-📚 Currently reading Grokking Algorithms <br> 
+📚 Currently reading Ikigai <br> 
 🎮 Pokemon Go, Call of Duty <br> 
 
 ### Working Stack
 
 ✨ Specialized in MERN stack for development. <br>
 ✨ In an eternal relationship with JS, but also recently got a paramour called Python XD <br>
-✨ Currently using **React-NextJS** for frontend development & **Node-NestJS** architecture in the backend. *(Yeah! You got that right, being fullstack dev is nuts!)*
+✨ Currently using **VueJS-NuxtJS** for frontend development & **Node-NestJS** architecture in the backend. *(Yeah! You got that right, being fullstack dev is nuts!)*
 
 
 
 ### Current Goals  
 ✨ Solve NeetCode 150 Problems in Python <br> 
-✨ Complete understand this book __Grokking Algorithms__ <br> 
+✨ Maintain book reading streak <br> 
 ✨ Contribute to the open source software <br> 
 ✨ Practice speedcubing more often <br> 
 
