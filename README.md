@@ -13,7 +13,7 @@ I'm a software engineer, JS enthusiast, working on software team at [GoZayaan](h
 
 ✨ Specialized in JS, TS, React, Vue for front-end development <br>
 ✨ In an eternal relationship with JS, but also recently got a paramour called Python XD <br>
-✨ Currently using **VueJS-NuxtJS** for frontend development 
+✨ Currently using **VueJS-NuxtJS** for frontend development <br>
 ✨ Experienced in **Node-NestJS** based backend architecture <br> 
 
 
