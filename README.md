@@ -30,7 +30,7 @@ I'm a software engineer, JS enthusiast, working on software team at [GoZayaan](h
 ✨ I pass free time with speedcubing 🧊, books 📚 and coffee ☕
 
 
-Find me on twitter [@merajkaz.xyz](https://merajkazi.xyz)
+Find me on twitter [merajkaz.xyz](https://merajkazi.xyz)
 
 #### ![Winter is coming](img/stark-2.png)  Winter is coming 
 
